@@ -1,4 +1,3 @@
 Hi, I'm Lazaro J. Suarez, a computer scientist & fullstack developer. I'm interested in the latest frameworks for backend and 
-frontend development, and building nice web sites and mobile apps. Currently learning all I can about the MERN stack, but knowledge about 
-other stacks are welcome as well. I also like Vue, .NET Core, and other programing languajes like C, C++, C# and assembly ones. You can reach 
+frontend development, and building nice web sites and mobile apps. Currently learning all I can about the MERN stack. I also like Vue, .NET Core, and other programing languajes like C, C++, C# and assembly ones. You can reach 
 me at LinkedIn by my name, or email me at lsuarez.wrk@gmail.com, would like to collaborate in any interesting project 🙂.
